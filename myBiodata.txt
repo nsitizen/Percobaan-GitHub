@@ -6,3 +6,4 @@ Prodi : D3 Teknik Informatika
 Cita-Cita : Data Scientist
 Hobi : Main game, dengerin musik, membaca, menggambar (optional hehe)
 Status : jomblo happy
+Genre musik : Pop dan blues
