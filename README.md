@@ -1,2 +1,2 @@
 # Percobaan-GitHub
-Isinya random wkwk
+Hanya untuk latihan menggunakan GitHub
